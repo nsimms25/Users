@@ -1,6 +1,5 @@
 import json
 import pprint
-import os
 
 def search_users(search_eq, file):
     count = 0
