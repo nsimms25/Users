@@ -49,6 +49,7 @@ with open('/home/nick/Desktop/users/MOCK_DATA.json', mode='r') as json_file:
 #Example of function calls.
 
 #search_users('first_name=Moss', json_data)
+
 #new_dict = {
 #"id": 1000,
 #"first_name": "Flora",
